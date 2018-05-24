@@ -1,0 +1,42 @@
+// Fields are separated by one or more tabs.  DO NOT USE SPACES.
+// Make sure all your image and sound files are LOWERCASE.
+
+corsairshot	-	0	media/corsairshot.gif	-
+corsair	-	0	media/corsair.gif	-
+phystorm	-	0	media/phystorm.gif	-
+interceptorshot	-	0	media/interceptorshot.gif	-
+interceptor	-	0	media/interceptor.gif	-
+moardkp		-	0	media/moardkp.gif		-
+carriershield		-	0	media/carriershield.gif		-
+extralife	-	0	media/extralife.gif		-
+ymultishot	-	0	media/ymultipow.gif		-
+yamatogun	-	0	media/yamatogun.gif		-
+carrier		-	0	media/carrier.gif		-
+battlecruzerdead		-	0	media/battlecruzerdead.gif		-
+battlecruzerdamaged		-	0	media/battlecruzerdamaged.gif	-
+spacebg					-	0	media/spacebg.jpg				-
+devourershot			-	0	media/devourershot.gif			-
+devourer				-	0	media/devourer.gif				-
+mutalisk				-	0	media/mutalisk.gif				-
+mutaliskpoisened				-	0	media/mutaliskpoisened.gif				-
+mutaliskpoisenedl				-	0	media/mutaliskpoisened.gif				x
+mutaliskinv				-	0	media/mutaliskinv.gif				-
+mutaliskinvl				-	0	media/mutaliskinv.gif				x
+mutaliskl	-	0	media/mutalisk.gif		x
+mutashot	-	0	media/mutaliskshot.gif	-
+mutashot1	-	0	media/mutaliskshot1.gif	-
+mutashot2	-	0	media/mutaliskshot2.gif	-
+mutashot3	-	0	media/mutaliskshot3.gif	-
+scourge		-	0	media/scourge.gif		-
+box			-	0	media/box.gif			-
+box2		-	0	media/box2.gif			-
+shoot		-	0	media/shoot.gif			- 
+sniper		-	0	media/sniper.gif		-
+wraith		-	0	media/wraith.gif		-
+battlecruzer	-	0	media/battlecruzer.gif	-
+wraithshot	-	0	media/wraithshot.gif	-
+battlecruzershot	-	0	media/battlecruzershot.gif	-
+
+bgmusic		media/bgmusic.mid
+beep		media/beep.wav
+pause		media/pause.wav
